@@ -1,4 +1,11 @@
 # python_chess
+Chess game implemented in Python.
+Available modes are:
+* local
+* client
+* host
+
+(client and host mode are part of the multiplayer integration, which allows for players in the same network to play together)
 
 ## Dependencies
 * pygame
